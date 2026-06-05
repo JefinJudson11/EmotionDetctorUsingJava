@@ -1,19 +1,19 @@
-# 🧠 Emotion Detector
+# Emotion Detector
 
 A real-time **Emotion Detection System** built using **Java**, **OpenCV**, and a pre-trained **Mini-XCEPTION Deep Learning Model**. The application captures live webcam input, detects faces, and predicts the user's emotional state with instant visual feedback.
 
-## ✨ Features
+## Features
 
-- 📷 Real-time webcam capture
-- 😀 Facial emotion recognition
-- 👤 Face detection using Haar Cascade Classifier
-- 🧠 Deep Learning powered emotion prediction
-- 📝 Emotion logging for analysis
-- ⚡ Fast and lightweight Java implementation
+- Real-time webcam capture
+- Facial emotion recognition
+- Face detection using Haar Cascade Classifier
+- Deep Learning powered emotion prediction
+- Emotion logging for analysis
+- Fast and lightweight Java implementation
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java 17
 - OpenCV 4.12
@@ -23,7 +23,7 @@ A real-time **Emotion Detection System** built using **Java**, **OpenCV**, and a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Emotion-Detector/
@@ -85,7 +85,7 @@ Emotion-Detector/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/Emotion-Detector.git
+git clone https://github.com/JefinJudson11/EmotionDetctorUsingJava.git
 cd Emotion-Detector
 ```
 
